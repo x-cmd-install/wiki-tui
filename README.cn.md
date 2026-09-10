@@ -14,7 +14,7 @@ A simple and easy to use Wikipedia Text User Interface
 x install wiki-tui
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **15,158** 行代码（覆盖前 5 种语言、共 **45** 个文件）。
 
@@ -87,4 +87,4 @@ wiki-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:34:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:37:24Z._
