@@ -6,7 +6,7 @@
 
 A simple and easy to use Wikipedia Text User Interface 
 
-[![x-cmd/install — wiki-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wiki-tui.svg)](https://x-cmd.com/install/wiki-tui)
+[![x-cmd/install — wiki-tui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/wiki-tui.svg)](https://x-cmd.com/install/wiki-tui)
 
 ## Install
 
@@ -40,7 +40,7 @@ Total: **15,158** lines of code across **45** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 725 · **Forks**: 34 · **Open issues**: 111 · **Contributors**: 18
+- **Stars**: 725 · **Forks**: 35 · **Open issues**: 111 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **15,158** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 2 | 0 | 3 | 1 |
-| 360d | 2025-09-27 | 1 | 4 | 3 | 0 | 5 | 30 |
-| last720d | 2024-10-02 | 3 | 10 | 8 | 13 | 13 | 96 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 2 | 0 | 3 | 1 |
+| 360d | 2025-09-28 | 1 | 4 | 3 | 0 | 5 | 30 |
+| last720d | 2024-10-03 | 3 | 10 | 8 | 13 | 13 | 96 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for wiki-tui lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:08:19Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:57:22Z._
